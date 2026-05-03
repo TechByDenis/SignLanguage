@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Local datasets and generated artifacts
+data/raw/
+data/processed/
+models/*.h5
+models/*.pickle
+*.h5
+*.pickle
+data.pickle

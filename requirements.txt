@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+tensorflow
+scikit-learn
+numpy<2
+ml_dtypes
+
