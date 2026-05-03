@@ -116,6 +116,6 @@ Această separare face clară diferența dintre codul sursă, datele brute, date
 
 ## Autor
 
-**Numele Tău**
+**Murariu Denis**
 
-- LinkedIn: `https://www.linkedin.com/in/linkul-tau/`
+- LinkedIn: `www.linkedin.com/in/denis-murariu-8b7893373`
