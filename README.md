@@ -29,7 +29,7 @@ SignBridge este un proiect de Computer Vision și Deep Learning care traduce în
 1. Clonează repository-ul:
 
 ```bash
-git clone <URL_REPOSITORY>
+git clone https://github.com/TechByDenis/SignLanguage.git
 cd SignLanguage
 ```
 
